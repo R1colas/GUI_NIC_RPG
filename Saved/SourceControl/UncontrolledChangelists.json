@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/P/BP_NPC.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/BP_Interactable.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/2/4C/0EAP8MUJOO4HDEQ6LXL9B2.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/__ExternalActors__/TopDown/Lvl_TopDown/9/OI/0LRHWHQCRCHEF3DCSJR8K0.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/P/WBP_Shop_Button.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/BP_ItemInGame.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/BP_DA_Item.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/E_Rarity.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/BP_DA_I_Spawner.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/BP_DA_I_HealingItem.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/NewWidgetBlueprint.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/WBP_Inventory.uasset",
+				"D:/MonDossier/GUI_NIC_RPG/Content/Developers/game/Interactable/BP_Interractable.uasset"
+			]
+		}
+	]
+}
